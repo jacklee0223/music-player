@@ -1,0 +1,15 @@
+{
+  "name": "music-player",
+  "description": "music player for makersquare",
+  "main": "server.js",
+  "authors": [
+    "Jeong Min Lee"
+  ],
+  "license": "MIT",
+  "moduleType": [],
+  "homepage": "",
+  "dependencies": {
+    "Materialize": "materialize#^0.97.5",
+    "jquery": "^2.2.2"
+  }
+}

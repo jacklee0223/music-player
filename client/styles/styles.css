@@ -1,0 +1,12 @@
+/* CSS */
+.playlist-box {
+  height: 250px;
+  width: 250px;
+  display: inline-block;
+  margin: 50px; }
+
+/* Materialize Customization */
+nav {
+  background-color: black; }
+
+/*# sourceMappingURL=styles.css.map */

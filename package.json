@@ -1,0 +1,20 @@
+{
+  "name": "music-player",
+  "version": "1.0.0",
+  "description": "music player for makersquare",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Jeong Min Lee",
+  "license": "MIT",
+  "dependencies": {
+    "babelify": "^7.2.0",
+    "browserify-middleware": "^7.0.0",
+    "express": "^4.13.4",
+    "react": "^0.14.7",
+    "react-dom": "^0.14.7",
+    "reactify": "^1.1.1"
+  }
+}
